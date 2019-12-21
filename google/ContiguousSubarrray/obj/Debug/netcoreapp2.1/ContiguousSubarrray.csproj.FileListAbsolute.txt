@@ -1,0 +1,11 @@
+/Users/richardtimpson/Documents/coding-problems/google/ContiguousSubarrray/bin/Debug/netcoreapp2.1/ContiguousSubarrray.deps.json
+/Users/richardtimpson/Documents/coding-problems/google/ContiguousSubarrray/bin/Debug/netcoreapp2.1/ContiguousSubarrray.runtimeconfig.json
+/Users/richardtimpson/Documents/coding-problems/google/ContiguousSubarrray/bin/Debug/netcoreapp2.1/ContiguousSubarrray.runtimeconfig.dev.json
+/Users/richardtimpson/Documents/coding-problems/google/ContiguousSubarrray/bin/Debug/netcoreapp2.1/ContiguousSubarrray.dll
+/Users/richardtimpson/Documents/coding-problems/google/ContiguousSubarrray/bin/Debug/netcoreapp2.1/ContiguousSubarrray.pdb
+/Users/richardtimpson/Documents/coding-problems/google/ContiguousSubarrray/obj/Debug/netcoreapp2.1/ContiguousSubarrray.csprojAssemblyReference.cache
+/Users/richardtimpson/Documents/coding-problems/google/ContiguousSubarrray/obj/Debug/netcoreapp2.1/ContiguousSubarrray.csproj.CoreCompileInputs.cache
+/Users/richardtimpson/Documents/coding-problems/google/ContiguousSubarrray/obj/Debug/netcoreapp2.1/ContiguousSubarrray.AssemblyInfoInputs.cache
+/Users/richardtimpson/Documents/coding-problems/google/ContiguousSubarrray/obj/Debug/netcoreapp2.1/ContiguousSubarrray.AssemblyInfo.cs
+/Users/richardtimpson/Documents/coding-problems/google/ContiguousSubarrray/obj/Debug/netcoreapp2.1/ContiguousSubarrray.dll
+/Users/richardtimpson/Documents/coding-problems/google/ContiguousSubarrray/obj/Debug/netcoreapp2.1/ContiguousSubarrray.pdb

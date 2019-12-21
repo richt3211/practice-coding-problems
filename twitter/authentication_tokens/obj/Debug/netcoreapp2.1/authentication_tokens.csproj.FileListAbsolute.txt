@@ -1,0 +1,11 @@
+/Users/richardtimpson/Documents/coding-problems/twitter/authentication_tokens/bin/Debug/netcoreapp2.1/authentication_tokens.deps.json
+/Users/richardtimpson/Documents/coding-problems/twitter/authentication_tokens/bin/Debug/netcoreapp2.1/authentication_tokens.runtimeconfig.json
+/Users/richardtimpson/Documents/coding-problems/twitter/authentication_tokens/bin/Debug/netcoreapp2.1/authentication_tokens.runtimeconfig.dev.json
+/Users/richardtimpson/Documents/coding-problems/twitter/authentication_tokens/bin/Debug/netcoreapp2.1/authentication_tokens.dll
+/Users/richardtimpson/Documents/coding-problems/twitter/authentication_tokens/bin/Debug/netcoreapp2.1/authentication_tokens.pdb
+/Users/richardtimpson/Documents/coding-problems/twitter/authentication_tokens/obj/Debug/netcoreapp2.1/authentication_tokens.csprojAssemblyReference.cache
+/Users/richardtimpson/Documents/coding-problems/twitter/authentication_tokens/obj/Debug/netcoreapp2.1/authentication_tokens.csproj.CoreCompileInputs.cache
+/Users/richardtimpson/Documents/coding-problems/twitter/authentication_tokens/obj/Debug/netcoreapp2.1/authentication_tokens.AssemblyInfoInputs.cache
+/Users/richardtimpson/Documents/coding-problems/twitter/authentication_tokens/obj/Debug/netcoreapp2.1/authentication_tokens.AssemblyInfo.cs
+/Users/richardtimpson/Documents/coding-problems/twitter/authentication_tokens/obj/Debug/netcoreapp2.1/authentication_tokens.dll
+/Users/richardtimpson/Documents/coding-problems/twitter/authentication_tokens/obj/Debug/netcoreapp2.1/authentication_tokens.pdb

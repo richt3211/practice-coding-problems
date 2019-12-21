@@ -1,0 +1,11 @@
+/Users/richardtimpson/Documents/coding-problems/salesforce-test/repeated-word/bin/Debug/netcoreapp2.1/repeated-word.deps.json
+/Users/richardtimpson/Documents/coding-problems/salesforce-test/repeated-word/bin/Debug/netcoreapp2.1/repeated-word.runtimeconfig.json
+/Users/richardtimpson/Documents/coding-problems/salesforce-test/repeated-word/bin/Debug/netcoreapp2.1/repeated-word.runtimeconfig.dev.json
+/Users/richardtimpson/Documents/coding-problems/salesforce-test/repeated-word/bin/Debug/netcoreapp2.1/repeated-word.dll
+/Users/richardtimpson/Documents/coding-problems/salesforce-test/repeated-word/bin/Debug/netcoreapp2.1/repeated-word.pdb
+/Users/richardtimpson/Documents/coding-problems/salesforce-test/repeated-word/obj/Debug/netcoreapp2.1/repeated-word.csprojAssemblyReference.cache
+/Users/richardtimpson/Documents/coding-problems/salesforce-test/repeated-word/obj/Debug/netcoreapp2.1/repeated-word.csproj.CoreCompileInputs.cache
+/Users/richardtimpson/Documents/coding-problems/salesforce-test/repeated-word/obj/Debug/netcoreapp2.1/repeated-word.AssemblyInfoInputs.cache
+/Users/richardtimpson/Documents/coding-problems/salesforce-test/repeated-word/obj/Debug/netcoreapp2.1/repeated-word.AssemblyInfo.cs
+/Users/richardtimpson/Documents/coding-problems/salesforce-test/repeated-word/obj/Debug/netcoreapp2.1/repeated-word.dll
+/Users/richardtimpson/Documents/coding-problems/salesforce-test/repeated-word/obj/Debug/netcoreapp2.1/repeated-word.pdb

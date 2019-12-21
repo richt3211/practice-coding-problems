@@ -1,0 +1,11 @@
+/Users/richardtimpson/Documents/coding-problems/lucid-interview/Problem/bin/Debug/netcoreapp2.1/Problem.deps.json
+/Users/richardtimpson/Documents/coding-problems/lucid-interview/Problem/bin/Debug/netcoreapp2.1/Problem.runtimeconfig.json
+/Users/richardtimpson/Documents/coding-problems/lucid-interview/Problem/bin/Debug/netcoreapp2.1/Problem.runtimeconfig.dev.json
+/Users/richardtimpson/Documents/coding-problems/lucid-interview/Problem/bin/Debug/netcoreapp2.1/Problem.dll
+/Users/richardtimpson/Documents/coding-problems/lucid-interview/Problem/bin/Debug/netcoreapp2.1/Problem.pdb
+/Users/richardtimpson/Documents/coding-problems/lucid-interview/Problem/obj/Debug/netcoreapp2.1/Problem.csprojAssemblyReference.cache
+/Users/richardtimpson/Documents/coding-problems/lucid-interview/Problem/obj/Debug/netcoreapp2.1/Problem.csproj.CoreCompileInputs.cache
+/Users/richardtimpson/Documents/coding-problems/lucid-interview/Problem/obj/Debug/netcoreapp2.1/Problem.AssemblyInfoInputs.cache
+/Users/richardtimpson/Documents/coding-problems/lucid-interview/Problem/obj/Debug/netcoreapp2.1/Problem.AssemblyInfo.cs
+/Users/richardtimpson/Documents/coding-problems/lucid-interview/Problem/obj/Debug/netcoreapp2.1/Problem.dll
+/Users/richardtimpson/Documents/coding-problems/lucid-interview/Problem/obj/Debug/netcoreapp2.1/Problem.pdb

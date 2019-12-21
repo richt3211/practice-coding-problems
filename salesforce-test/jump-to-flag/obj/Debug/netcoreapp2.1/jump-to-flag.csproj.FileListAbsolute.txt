@@ -1,0 +1,11 @@
+/Users/richardtimpson/Documents/coding-problems/salesforce-test/jump-to-flag/bin/Debug/netcoreapp2.1/jump-to-flag.deps.json
+/Users/richardtimpson/Documents/coding-problems/salesforce-test/jump-to-flag/bin/Debug/netcoreapp2.1/jump-to-flag.runtimeconfig.json
+/Users/richardtimpson/Documents/coding-problems/salesforce-test/jump-to-flag/bin/Debug/netcoreapp2.1/jump-to-flag.runtimeconfig.dev.json
+/Users/richardtimpson/Documents/coding-problems/salesforce-test/jump-to-flag/bin/Debug/netcoreapp2.1/jump-to-flag.dll
+/Users/richardtimpson/Documents/coding-problems/salesforce-test/jump-to-flag/bin/Debug/netcoreapp2.1/jump-to-flag.pdb
+/Users/richardtimpson/Documents/coding-problems/salesforce-test/jump-to-flag/obj/Debug/netcoreapp2.1/jump-to-flag.csprojAssemblyReference.cache
+/Users/richardtimpson/Documents/coding-problems/salesforce-test/jump-to-flag/obj/Debug/netcoreapp2.1/jump-to-flag.csproj.CoreCompileInputs.cache
+/Users/richardtimpson/Documents/coding-problems/salesforce-test/jump-to-flag/obj/Debug/netcoreapp2.1/jump-to-flag.AssemblyInfoInputs.cache
+/Users/richardtimpson/Documents/coding-problems/salesforce-test/jump-to-flag/obj/Debug/netcoreapp2.1/jump-to-flag.AssemblyInfo.cs
+/Users/richardtimpson/Documents/coding-problems/salesforce-test/jump-to-flag/obj/Debug/netcoreapp2.1/jump-to-flag.dll
+/Users/richardtimpson/Documents/coding-problems/salesforce-test/jump-to-flag/obj/Debug/netcoreapp2.1/jump-to-flag.pdb

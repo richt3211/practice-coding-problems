@@ -1,0 +1,11 @@
+/Users/richardtimpson/Documents/coding-problems/cracking-coding-interview/dotnet/permutation_palindrome/bin/Debug/netcoreapp2.1/permutation_palindrome.deps.json
+/Users/richardtimpson/Documents/coding-problems/cracking-coding-interview/dotnet/permutation_palindrome/bin/Debug/netcoreapp2.1/permutation_palindrome.runtimeconfig.json
+/Users/richardtimpson/Documents/coding-problems/cracking-coding-interview/dotnet/permutation_palindrome/bin/Debug/netcoreapp2.1/permutation_palindrome.runtimeconfig.dev.json
+/Users/richardtimpson/Documents/coding-problems/cracking-coding-interview/dotnet/permutation_palindrome/bin/Debug/netcoreapp2.1/permutation_palindrome.dll
+/Users/richardtimpson/Documents/coding-problems/cracking-coding-interview/dotnet/permutation_palindrome/bin/Debug/netcoreapp2.1/permutation_palindrome.pdb
+/Users/richardtimpson/Documents/coding-problems/cracking-coding-interview/dotnet/permutation_palindrome/obj/Debug/netcoreapp2.1/permutation_palindrome.csprojAssemblyReference.cache
+/Users/richardtimpson/Documents/coding-problems/cracking-coding-interview/dotnet/permutation_palindrome/obj/Debug/netcoreapp2.1/permutation_palindrome.csproj.CoreCompileInputs.cache
+/Users/richardtimpson/Documents/coding-problems/cracking-coding-interview/dotnet/permutation_palindrome/obj/Debug/netcoreapp2.1/permutation_palindrome.AssemblyInfoInputs.cache
+/Users/richardtimpson/Documents/coding-problems/cracking-coding-interview/dotnet/permutation_palindrome/obj/Debug/netcoreapp2.1/permutation_palindrome.AssemblyInfo.cs
+/Users/richardtimpson/Documents/coding-problems/cracking-coding-interview/dotnet/permutation_palindrome/obj/Debug/netcoreapp2.1/permutation_palindrome.dll
+/Users/richardtimpson/Documents/coding-problems/cracking-coding-interview/dotnet/permutation_palindrome/obj/Debug/netcoreapp2.1/permutation_palindrome.pdb

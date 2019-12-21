@@ -1,0 +1,11 @@
+/Users/richardtimpson/Documents/coding-problems/permutations/bin/Debug/netcoreapp2.1/permutations.deps.json
+/Users/richardtimpson/Documents/coding-problems/permutations/bin/Debug/netcoreapp2.1/permutations.runtimeconfig.json
+/Users/richardtimpson/Documents/coding-problems/permutations/bin/Debug/netcoreapp2.1/permutations.runtimeconfig.dev.json
+/Users/richardtimpson/Documents/coding-problems/permutations/bin/Debug/netcoreapp2.1/permutations.dll
+/Users/richardtimpson/Documents/coding-problems/permutations/bin/Debug/netcoreapp2.1/permutations.pdb
+/Users/richardtimpson/Documents/coding-problems/permutations/obj/Debug/netcoreapp2.1/permutations.csprojAssemblyReference.cache
+/Users/richardtimpson/Documents/coding-problems/permutations/obj/Debug/netcoreapp2.1/permutations.csproj.CoreCompileInputs.cache
+/Users/richardtimpson/Documents/coding-problems/permutations/obj/Debug/netcoreapp2.1/permutations.AssemblyInfoInputs.cache
+/Users/richardtimpson/Documents/coding-problems/permutations/obj/Debug/netcoreapp2.1/permutations.AssemblyInfo.cs
+/Users/richardtimpson/Documents/coding-problems/permutations/obj/Debug/netcoreapp2.1/permutations.dll
+/Users/richardtimpson/Documents/coding-problems/permutations/obj/Debug/netcoreapp2.1/permutations.pdb

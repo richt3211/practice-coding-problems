@@ -1,0 +1,11 @@
+/Users/richardtimpson/Documents/coding-problems/google/MaxTime/bin/Debug/netcoreapp2.1/MaxTime.deps.json
+/Users/richardtimpson/Documents/coding-problems/google/MaxTime/bin/Debug/netcoreapp2.1/MaxTime.runtimeconfig.json
+/Users/richardtimpson/Documents/coding-problems/google/MaxTime/bin/Debug/netcoreapp2.1/MaxTime.runtimeconfig.dev.json
+/Users/richardtimpson/Documents/coding-problems/google/MaxTime/bin/Debug/netcoreapp2.1/MaxTime.dll
+/Users/richardtimpson/Documents/coding-problems/google/MaxTime/bin/Debug/netcoreapp2.1/MaxTime.pdb
+/Users/richardtimpson/Documents/coding-problems/google/MaxTime/obj/Debug/netcoreapp2.1/MaxTime.csprojAssemblyReference.cache
+/Users/richardtimpson/Documents/coding-problems/google/MaxTime/obj/Debug/netcoreapp2.1/MaxTime.csproj.CoreCompileInputs.cache
+/Users/richardtimpson/Documents/coding-problems/google/MaxTime/obj/Debug/netcoreapp2.1/MaxTime.AssemblyInfoInputs.cache
+/Users/richardtimpson/Documents/coding-problems/google/MaxTime/obj/Debug/netcoreapp2.1/MaxTime.AssemblyInfo.cs
+/Users/richardtimpson/Documents/coding-problems/google/MaxTime/obj/Debug/netcoreapp2.1/MaxTime.dll
+/Users/richardtimpson/Documents/coding-problems/google/MaxTime/obj/Debug/netcoreapp2.1/MaxTime.pdb

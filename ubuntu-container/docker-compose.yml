@@ -1,0 +1,7 @@
+version: '3.3'
+services:
+  '4400':
+    build: .
+    volumes:
+      - /Users/richardtimpson/Documents/coding-problems/ubuntu-container:/root/src
+    tty: true

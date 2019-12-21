@@ -1,0 +1,11 @@
+/Users/richardtimpson/Documents/coding-problems/google/ServerLoad/bin/Debug/netcoreapp2.1/ServerLoad.deps.json
+/Users/richardtimpson/Documents/coding-problems/google/ServerLoad/bin/Debug/netcoreapp2.1/ServerLoad.runtimeconfig.json
+/Users/richardtimpson/Documents/coding-problems/google/ServerLoad/bin/Debug/netcoreapp2.1/ServerLoad.runtimeconfig.dev.json
+/Users/richardtimpson/Documents/coding-problems/google/ServerLoad/bin/Debug/netcoreapp2.1/ServerLoad.dll
+/Users/richardtimpson/Documents/coding-problems/google/ServerLoad/bin/Debug/netcoreapp2.1/ServerLoad.pdb
+/Users/richardtimpson/Documents/coding-problems/google/ServerLoad/obj/Debug/netcoreapp2.1/ServerLoad.csprojAssemblyReference.cache
+/Users/richardtimpson/Documents/coding-problems/google/ServerLoad/obj/Debug/netcoreapp2.1/ServerLoad.csproj.CoreCompileInputs.cache
+/Users/richardtimpson/Documents/coding-problems/google/ServerLoad/obj/Debug/netcoreapp2.1/ServerLoad.AssemblyInfoInputs.cache
+/Users/richardtimpson/Documents/coding-problems/google/ServerLoad/obj/Debug/netcoreapp2.1/ServerLoad.AssemblyInfo.cs
+/Users/richardtimpson/Documents/coding-problems/google/ServerLoad/obj/Debug/netcoreapp2.1/ServerLoad.dll
+/Users/richardtimpson/Documents/coding-problems/google/ServerLoad/obj/Debug/netcoreapp2.1/ServerLoad.pdb

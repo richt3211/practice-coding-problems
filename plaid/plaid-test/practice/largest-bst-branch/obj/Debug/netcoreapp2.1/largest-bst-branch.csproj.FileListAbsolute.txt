@@ -1,0 +1,11 @@
+/Users/richardtimpson/Documents/coding-problems/plaid-test/practice/largest-bst-branch/bin/Debug/netcoreapp2.1/largest-bst-branch.deps.json
+/Users/richardtimpson/Documents/coding-problems/plaid-test/practice/largest-bst-branch/bin/Debug/netcoreapp2.1/largest-bst-branch.runtimeconfig.json
+/Users/richardtimpson/Documents/coding-problems/plaid-test/practice/largest-bst-branch/bin/Debug/netcoreapp2.1/largest-bst-branch.runtimeconfig.dev.json
+/Users/richardtimpson/Documents/coding-problems/plaid-test/practice/largest-bst-branch/bin/Debug/netcoreapp2.1/largest-bst-branch.dll
+/Users/richardtimpson/Documents/coding-problems/plaid-test/practice/largest-bst-branch/bin/Debug/netcoreapp2.1/largest-bst-branch.pdb
+/Users/richardtimpson/Documents/coding-problems/plaid-test/practice/largest-bst-branch/obj/Debug/netcoreapp2.1/largest-bst-branch.csprojAssemblyReference.cache
+/Users/richardtimpson/Documents/coding-problems/plaid-test/practice/largest-bst-branch/obj/Debug/netcoreapp2.1/largest-bst-branch.csproj.CoreCompileInputs.cache
+/Users/richardtimpson/Documents/coding-problems/plaid-test/practice/largest-bst-branch/obj/Debug/netcoreapp2.1/largest-bst-branch.AssemblyInfoInputs.cache
+/Users/richardtimpson/Documents/coding-problems/plaid-test/practice/largest-bst-branch/obj/Debug/netcoreapp2.1/largest-bst-branch.AssemblyInfo.cs
+/Users/richardtimpson/Documents/coding-problems/plaid-test/practice/largest-bst-branch/obj/Debug/netcoreapp2.1/largest-bst-branch.dll
+/Users/richardtimpson/Documents/coding-problems/plaid-test/practice/largest-bst-branch/obj/Debug/netcoreapp2.1/largest-bst-branch.pdb

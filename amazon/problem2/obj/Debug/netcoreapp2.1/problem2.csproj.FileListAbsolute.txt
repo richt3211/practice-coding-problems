@@ -1,0 +1,11 @@
+/Users/richardtimpson/Documents/coding-problems/amazon/problem2/bin/Debug/netcoreapp2.1/problem2.deps.json
+/Users/richardtimpson/Documents/coding-problems/amazon/problem2/bin/Debug/netcoreapp2.1/problem2.runtimeconfig.json
+/Users/richardtimpson/Documents/coding-problems/amazon/problem2/bin/Debug/netcoreapp2.1/problem2.runtimeconfig.dev.json
+/Users/richardtimpson/Documents/coding-problems/amazon/problem2/bin/Debug/netcoreapp2.1/problem2.dll
+/Users/richardtimpson/Documents/coding-problems/amazon/problem2/bin/Debug/netcoreapp2.1/problem2.pdb
+/Users/richardtimpson/Documents/coding-problems/amazon/problem2/obj/Debug/netcoreapp2.1/problem2.csprojAssemblyReference.cache
+/Users/richardtimpson/Documents/coding-problems/amazon/problem2/obj/Debug/netcoreapp2.1/problem2.csproj.CoreCompileInputs.cache
+/Users/richardtimpson/Documents/coding-problems/amazon/problem2/obj/Debug/netcoreapp2.1/problem2.AssemblyInfoInputs.cache
+/Users/richardtimpson/Documents/coding-problems/amazon/problem2/obj/Debug/netcoreapp2.1/problem2.AssemblyInfo.cs
+/Users/richardtimpson/Documents/coding-problems/amazon/problem2/obj/Debug/netcoreapp2.1/problem2.dll
+/Users/richardtimpson/Documents/coding-problems/amazon/problem2/obj/Debug/netcoreapp2.1/problem2.pdb

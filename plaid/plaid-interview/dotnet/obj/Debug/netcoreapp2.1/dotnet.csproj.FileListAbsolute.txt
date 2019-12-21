@@ -1,0 +1,11 @@
+/Users/richardtimpson/Documents/coding-problems/plaid/plaid-interview/dotnet/obj/Debug/netcoreapp2.1/dotnet.csprojAssemblyReference.cache
+/Users/richardtimpson/Documents/coding-problems/plaid/plaid-interview/dotnet/obj/Debug/netcoreapp2.1/dotnet.csproj.CoreCompileInputs.cache
+/Users/richardtimpson/Documents/coding-problems/plaid/plaid-interview/dotnet/obj/Debug/netcoreapp2.1/dotnet.AssemblyInfoInputs.cache
+/Users/richardtimpson/Documents/coding-problems/plaid/plaid-interview/dotnet/obj/Debug/netcoreapp2.1/dotnet.AssemblyInfo.cs
+/Users/richardtimpson/Documents/coding-problems/plaid/plaid-interview/dotnet/bin/Debug/netcoreapp2.1/dotnet.deps.json
+/Users/richardtimpson/Documents/coding-problems/plaid/plaid-interview/dotnet/bin/Debug/netcoreapp2.1/dotnet.runtimeconfig.json
+/Users/richardtimpson/Documents/coding-problems/plaid/plaid-interview/dotnet/bin/Debug/netcoreapp2.1/dotnet.runtimeconfig.dev.json
+/Users/richardtimpson/Documents/coding-problems/plaid/plaid-interview/dotnet/bin/Debug/netcoreapp2.1/dotnet.dll
+/Users/richardtimpson/Documents/coding-problems/plaid/plaid-interview/dotnet/bin/Debug/netcoreapp2.1/dotnet.pdb
+/Users/richardtimpson/Documents/coding-problems/plaid/plaid-interview/dotnet/obj/Debug/netcoreapp2.1/dotnet.dll
+/Users/richardtimpson/Documents/coding-problems/plaid/plaid-interview/dotnet/obj/Debug/netcoreapp2.1/dotnet.pdb

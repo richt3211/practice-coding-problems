@@ -1,0 +1,11 @@
+// See https://aka.ms/vscode-remote/devcontainer.json for format details or
+// https://aka.ms/vscode-dev-containers/definitions for sample configurations.
+{
+	"dockerComposeFile": "docker-compose.yml",
+	"service": "4400",
+	"workspaceFolder": "/",
+	"extensions": [
+		"lfs.vscode-emacs-friendly", 
+		"ms-vscode.cpptools",
+	]
+}

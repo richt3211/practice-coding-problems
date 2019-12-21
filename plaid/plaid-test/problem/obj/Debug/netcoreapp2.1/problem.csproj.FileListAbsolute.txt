@@ -1,0 +1,11 @@
+/Users/richardtimpson/Documents/coding-problems/plaid-test/problem/bin/Debug/netcoreapp2.1/problem.deps.json
+/Users/richardtimpson/Documents/coding-problems/plaid-test/problem/bin/Debug/netcoreapp2.1/problem.runtimeconfig.json
+/Users/richardtimpson/Documents/coding-problems/plaid-test/problem/bin/Debug/netcoreapp2.1/problem.runtimeconfig.dev.json
+/Users/richardtimpson/Documents/coding-problems/plaid-test/problem/bin/Debug/netcoreapp2.1/problem.dll
+/Users/richardtimpson/Documents/coding-problems/plaid-test/problem/bin/Debug/netcoreapp2.1/problem.pdb
+/Users/richardtimpson/Documents/coding-problems/plaid-test/problem/obj/Debug/netcoreapp2.1/problem.csprojAssemblyReference.cache
+/Users/richardtimpson/Documents/coding-problems/plaid-test/problem/obj/Debug/netcoreapp2.1/problem.csproj.CoreCompileInputs.cache
+/Users/richardtimpson/Documents/coding-problems/plaid-test/problem/obj/Debug/netcoreapp2.1/problem.AssemblyInfoInputs.cache
+/Users/richardtimpson/Documents/coding-problems/plaid-test/problem/obj/Debug/netcoreapp2.1/problem.AssemblyInfo.cs
+/Users/richardtimpson/Documents/coding-problems/plaid-test/problem/obj/Debug/netcoreapp2.1/problem.dll
+/Users/richardtimpson/Documents/coding-problems/plaid-test/problem/obj/Debug/netcoreapp2.1/problem.pdb

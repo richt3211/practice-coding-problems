@@ -1,0 +1,11 @@
+/Users/richardtimpson/Documents/coding-problems/leetcode/same_tree_copy/bin/Debug/netcoreapp2.1/same_tree_copy.deps.json
+/Users/richardtimpson/Documents/coding-problems/leetcode/same_tree_copy/bin/Debug/netcoreapp2.1/same_tree_copy.runtimeconfig.json
+/Users/richardtimpson/Documents/coding-problems/leetcode/same_tree_copy/bin/Debug/netcoreapp2.1/same_tree_copy.runtimeconfig.dev.json
+/Users/richardtimpson/Documents/coding-problems/leetcode/same_tree_copy/bin/Debug/netcoreapp2.1/same_tree_copy.dll
+/Users/richardtimpson/Documents/coding-problems/leetcode/same_tree_copy/bin/Debug/netcoreapp2.1/same_tree_copy.pdb
+/Users/richardtimpson/Documents/coding-problems/leetcode/same_tree_copy/obj/Debug/netcoreapp2.1/same_tree_copy.csprojAssemblyReference.cache
+/Users/richardtimpson/Documents/coding-problems/leetcode/same_tree_copy/obj/Debug/netcoreapp2.1/same_tree_copy.csproj.CoreCompileInputs.cache
+/Users/richardtimpson/Documents/coding-problems/leetcode/same_tree_copy/obj/Debug/netcoreapp2.1/same_tree_copy.AssemblyInfoInputs.cache
+/Users/richardtimpson/Documents/coding-problems/leetcode/same_tree_copy/obj/Debug/netcoreapp2.1/same_tree_copy.AssemblyInfo.cs
+/Users/richardtimpson/Documents/coding-problems/leetcode/same_tree_copy/obj/Debug/netcoreapp2.1/same_tree_copy.dll
+/Users/richardtimpson/Documents/coding-problems/leetcode/same_tree_copy/obj/Debug/netcoreapp2.1/same_tree_copy.pdb

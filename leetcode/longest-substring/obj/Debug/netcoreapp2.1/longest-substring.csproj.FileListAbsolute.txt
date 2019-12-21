@@ -1,0 +1,11 @@
+/Users/richardtimpson/Documents/coding-problems/leetcode/longest-substring/bin/Debug/netcoreapp2.1/longest-substring.deps.json
+/Users/richardtimpson/Documents/coding-problems/leetcode/longest-substring/bin/Debug/netcoreapp2.1/longest-substring.runtimeconfig.json
+/Users/richardtimpson/Documents/coding-problems/leetcode/longest-substring/bin/Debug/netcoreapp2.1/longest-substring.runtimeconfig.dev.json
+/Users/richardtimpson/Documents/coding-problems/leetcode/longest-substring/bin/Debug/netcoreapp2.1/longest-substring.dll
+/Users/richardtimpson/Documents/coding-problems/leetcode/longest-substring/bin/Debug/netcoreapp2.1/longest-substring.pdb
+/Users/richardtimpson/Documents/coding-problems/leetcode/longest-substring/obj/Debug/netcoreapp2.1/longest-substring.csprojAssemblyReference.cache
+/Users/richardtimpson/Documents/coding-problems/leetcode/longest-substring/obj/Debug/netcoreapp2.1/longest-substring.csproj.CoreCompileInputs.cache
+/Users/richardtimpson/Documents/coding-problems/leetcode/longest-substring/obj/Debug/netcoreapp2.1/longest-substring.AssemblyInfoInputs.cache
+/Users/richardtimpson/Documents/coding-problems/leetcode/longest-substring/obj/Debug/netcoreapp2.1/longest-substring.AssemblyInfo.cs
+/Users/richardtimpson/Documents/coding-problems/leetcode/longest-substring/obj/Debug/netcoreapp2.1/longest-substring.dll
+/Users/richardtimpson/Documents/coding-problems/leetcode/longest-substring/obj/Debug/netcoreapp2.1/longest-substring.pdb

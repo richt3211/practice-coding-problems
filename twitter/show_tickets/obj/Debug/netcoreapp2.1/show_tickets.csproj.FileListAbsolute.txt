@@ -1,0 +1,11 @@
+/Users/richardtimpson/Documents/coding-problems/twitter/show_tickets/obj/Debug/netcoreapp2.1/show_tickets.csprojAssemblyReference.cache
+/Users/richardtimpson/Documents/coding-problems/twitter/show_tickets/obj/Debug/netcoreapp2.1/show_tickets.csproj.CoreCompileInputs.cache
+/Users/richardtimpson/Documents/coding-problems/twitter/show_tickets/obj/Debug/netcoreapp2.1/show_tickets.AssemblyInfoInputs.cache
+/Users/richardtimpson/Documents/coding-problems/twitter/show_tickets/obj/Debug/netcoreapp2.1/show_tickets.AssemblyInfo.cs
+/Users/richardtimpson/Documents/coding-problems/twitter/show_tickets/bin/Debug/netcoreapp2.1/show_tickets.deps.json
+/Users/richardtimpson/Documents/coding-problems/twitter/show_tickets/bin/Debug/netcoreapp2.1/show_tickets.runtimeconfig.json
+/Users/richardtimpson/Documents/coding-problems/twitter/show_tickets/bin/Debug/netcoreapp2.1/show_tickets.runtimeconfig.dev.json
+/Users/richardtimpson/Documents/coding-problems/twitter/show_tickets/bin/Debug/netcoreapp2.1/show_tickets.dll
+/Users/richardtimpson/Documents/coding-problems/twitter/show_tickets/bin/Debug/netcoreapp2.1/show_tickets.pdb
+/Users/richardtimpson/Documents/coding-problems/twitter/show_tickets/obj/Debug/netcoreapp2.1/show_tickets.dll
+/Users/richardtimpson/Documents/coding-problems/twitter/show_tickets/obj/Debug/netcoreapp2.1/show_tickets.pdb

@@ -1,0 +1,11 @@
+/Users/richardtimpson/Documents/coding-problems/hacker-rank/lucid-programming-challenge/bin/Debug/netcoreapp2.1/lucid-programming-challenge.deps.json
+/Users/richardtimpson/Documents/coding-problems/hacker-rank/lucid-programming-challenge/bin/Debug/netcoreapp2.1/lucid-programming-challenge.runtimeconfig.json
+/Users/richardtimpson/Documents/coding-problems/hacker-rank/lucid-programming-challenge/bin/Debug/netcoreapp2.1/lucid-programming-challenge.runtimeconfig.dev.json
+/Users/richardtimpson/Documents/coding-problems/hacker-rank/lucid-programming-challenge/bin/Debug/netcoreapp2.1/lucid-programming-challenge.dll
+/Users/richardtimpson/Documents/coding-problems/hacker-rank/lucid-programming-challenge/bin/Debug/netcoreapp2.1/lucid-programming-challenge.pdb
+/Users/richardtimpson/Documents/coding-problems/hacker-rank/lucid-programming-challenge/obj/Debug/netcoreapp2.1/lucid-programming-challenge.csprojAssemblyReference.cache
+/Users/richardtimpson/Documents/coding-problems/hacker-rank/lucid-programming-challenge/obj/Debug/netcoreapp2.1/lucid-programming-challenge.csproj.CoreCompileInputs.cache
+/Users/richardtimpson/Documents/coding-problems/hacker-rank/lucid-programming-challenge/obj/Debug/netcoreapp2.1/lucid-programming-challenge.AssemblyInfoInputs.cache
+/Users/richardtimpson/Documents/coding-problems/hacker-rank/lucid-programming-challenge/obj/Debug/netcoreapp2.1/lucid-programming-challenge.AssemblyInfo.cs
+/Users/richardtimpson/Documents/coding-problems/hacker-rank/lucid-programming-challenge/obj/Debug/netcoreapp2.1/lucid-programming-challenge.dll
+/Users/richardtimpson/Documents/coding-problems/hacker-rank/lucid-programming-challenge/obj/Debug/netcoreapp2.1/lucid-programming-challenge.pdb
